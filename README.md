@@ -47,6 +47,9 @@ Hello, my name is Thomaz! I am a student in the world of technology. I am curren
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDQ0azRtYTQ3OWVza250ZWdnanlvMjFwc3M1b3I1dmtsdTF6MDJkcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" alt="Exemplo de GIF">
 </p>
 
+<p align="center">
+  <img src="soutty.png" alt="image print">
+</p>
 
 ---
 
