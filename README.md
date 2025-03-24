@@ -15,6 +15,12 @@ Hello, my name is Thomaz! I am a student in the world of technology. I am curren
   <img src="https://skillicons.dev/icons?i=vscode,java,python,c,spring,blender,unreal,mongodb,git,github,figma" />
 </p>
 
+---
+
+## 🌎 Spoken Languages
+- Portuguese
+- English
+- Spanish (basic)
 
 ---
 
