@@ -42,6 +42,12 @@ Hello, my name is Thomaz! I am a student in the world of technology. I am curren
 
 ---
 
+## 📜 My Certificates
+- **[Introduction to Python](https://www.linkedin.com/posts/thomaz-abrantes-martinelli_eu-recebi-um-novo-certificado-activity-7175994341830606848-MnmI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEx8I5UBbQFtY9UyphRt1M9DnScTYp7lz4M)**
+- **[Python Intermediate](https://www.linkedin.com/posts/thomaz-abrantes-martinelli_eu-recebi-um-novo-certificado-activity-7180370695166574592-jjAX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEx8I5UBbQFtY9UyphRt1M9DnScTYp7lz4M)**
+  
+---
+
 ## 📩 Contact Me
 
 - 📫 Email: **thomaz.abrantes@edu.pucrs.br** or **thz.martinelli@gmail.com**
