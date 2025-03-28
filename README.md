@@ -46,6 +46,7 @@ Hello, my name is Thomaz! I am a student in the world of technology. I am curren
 - **[Introduction to Python - Sololearn](https://www.linkedin.com/posts/thomaz-abrantes-martinelli_eu-recebi-um-novo-certificado-activity-7175994341830606848-MnmI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEx8I5UBbQFtY9UyphRt1M9DnScTYp7lz4M)**
 - **[Python Intermediate - Sololearn](https://www.linkedin.com/posts/thomaz-abrantes-martinelli_eu-recebi-um-novo-certificado-activity-7180370695166574592-jjAX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEx8I5UBbQFtY9UyphRt1M9DnScTYp7lz4M)**
 - **[English Course at Christ's Hospital School, Horsham, UK - Oxford](https://www.linkedin.com/posts/thomaz-abrantes-martinelli_encontrei-meu-certificado-que-ganhei-em-um-activity-7310043907084447744-DjYa?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEx8I5UBbQFtY9UyphRt1M9DnScTYp7lz4M)**
+- **[Character Creation for Games - TIC em Trilhas](https://www.linkedin.com/posts/thomaz-abrantes-martinelli_certificado-cria%C3%A7%C3%A3o-de-personagens-para-games-activity-7311473353880408064-Hleg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEx8I5UBbQFtY9UyphRt1M9DnScTYp7lz4M)**
   
 ---
 
