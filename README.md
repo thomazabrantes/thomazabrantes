@@ -17,6 +17,13 @@ Hello, my name is Thomaz! I am a student in the world of technology. I am curren
 
 ---
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomazabrantes&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thomazabrantes&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
 ## 🌎 Spoken Languages
 - Portuguese
 - English
