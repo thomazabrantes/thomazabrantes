@@ -12,7 +12,7 @@ Hello, my name is Thomaz! I am a student in the world of technology. I am curren
 ## 🧑‍💻 My Technological Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,java,python,c,cpp,cs,blender,unreal,unity,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=vscode,java,python,c,cs,blender,godot,unity,git,github,figma" />
 </p>
 
 ---
