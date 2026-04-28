@@ -37,19 +37,27 @@ I have an aptitude for **solving problems** in a logical and structured way, com
 
 ## 🎮 Hobbies & Interests
 
-- 🎨 3D Modeling & Animation  
-- 🕹️ Playing RPG, FPS, and TPS games  
-- 🚀 Learning about game development  
-- 🔭 Stargazing and space exploration  
+- Programming
+- Web Development
+- 3D Modeling & Animation  
+- Playing RPG, FPS, and TPS games  
+- Learning about game development  
+- Stargazing and space exploration  
 
 ---
 
 ## 🚀 Featured Projects
 
-- 📱 **[Application Subscription Control System](https://github.com/thomazabrantes/TRABALHO-FDS-REAL-OFICIAL/)** 
-- 🖥️ **[BVH File Viewer](https://github.com/thomazabrantes/Visualizador-de-Arquivos-BVH)** 
-- 📦 **[Longest Stackable Box Sequence](https://github.com/thomazabrantes/Graphs-boxes)**
-- 🌆 **[Image Analysis and Processing](https://github.com/thomazabrantes/Processamento-de-Imagens)**
+- **[Application Subscription Control System](https://github.com/thomazabrantes/TRABALHO-FDS-REAL-OFICIAL/)** 
+- **[BVH File Viewer](https://github.com/thomazabrantes/Visualizador-de-Arquivos-BVH)** 
+- **[Longest Stackable Box Sequence](https://github.com/thomazabrantes/Graphs-boxes)**
+- **[Image Analysis and Processing](https://github.com/thomazabrantes/Processamento-de-Imagens)**
+- **[Crowd Simulation OpenGL](https://github.com/thomazabrantes/Crowd-Simulator)**
+- **[Head Animation OpenGL](https://github.com/thomazabrantes/Head-Animation-OpenGL)**
+- **[Chess Brawl Full Stack Project](https://github.com/thomazabrantes/Chess-Brawl)**
+- **[Process Scheduler - OS](https://github.com/thomazabrantes/Sisop-Trab1)**
+- **[Paged Memory Simulator - OS](https://github.com/thomazabrantes/Sisop-Trab2-Sistema-de-Gerencia-de-Memoria-Paginada)**
+- **[Caesar Cipher - VHDL](https://github.com/thomazabrantes/Caesar-Cipher)**
 
 ---
 
