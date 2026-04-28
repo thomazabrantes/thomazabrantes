@@ -5,7 +5,11 @@
 ---
 
 ## 👋 About me
-Hello, my name is Thomaz! I am a student in the world of technology. I am currently in my 7th semester of Computer Science at the Pontifical Catholic University of Rio Grande do Sul (Portuguese: Pontifícia Universidade Católica do Rio Grande do Sul, PUCRS), one of the most renowned educational institutions in Brazil. Since I was a child, I have always been very interested in topics related to games of all kinds, such as RPGs, FPS, and TPS, for example. With that in mind, I hope to one day have the opportunity to work in the field of computer graphics and game development. I am currently learning to develop 2D and 3D games using Unity software.
+Hello, my name is Thomaz! I am a Computer Science student in Pontifical Catholic University of Rio Grande do Sul (PUCRS), with a focus on systems development and web programming. I have a strong interest in turning challenges into efficient solutions by using logic, creativity, and good development practices.
+
+I stand out for my academic dedication, discipline, and constant pursuit of learning. I have knowledge in **Java** (including the **Spring Boot** framework), **Python**, and **C**, as well as ongoing experience in **web development**. I am also familiar with **SQL** and **NoSQL** databases, such as **MongoDB**, and tools like **Power BI**.
+
+I have an aptitude for **solving problems** in a logical and structured way, combining programming and mathematical concepts to build solid solutions. Additionally, I have experience with academic research and writing **scientific articles** (using LaTeX), having taken part in an undergraduate research project, which reinforces my analytical skills and organization.
 
 ---
 
