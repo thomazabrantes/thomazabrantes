@@ -72,7 +72,7 @@ I have an aptitude for **solving problems** in a logical and structured way, com
 
 ## 📩 Contact Me
 
-- 📫 Email: **thomaz.abrantes@edu.pucrs.br** or **thz.martinelli@gmail.com**
+- 📫 Email: **thomaz.abrantes@edu.pucrs.br** or **abrantesthomaz@gmail.com**
 - 💼 LinkedIn: [linkedin.com/in/thomaz-abrantes-martinelli](https://www.linkedin.com/in/thomaz-abrantes-martinelli)  
 
 ---
